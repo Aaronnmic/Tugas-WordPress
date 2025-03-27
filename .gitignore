@@ -1,0 +1,2 @@
+wordpress-multi-container/mysql_data/mysql.sock
+wordpress-multi-container/mysql_data/*.sock
